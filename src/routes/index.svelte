@@ -28,12 +28,13 @@
 	p {
 		margin: 1em auto;
 	}
-	
+	<--!
 	body {
                 background-color: #CA8EFF;
 		background-image: url(great-success.png);
 		background-repeat:repeat;
         }
+	-->
 
 	@media (min-width: 480px) {
 		h1 {
@@ -49,12 +50,11 @@
 <body>
 
 <h1>Twitter Doge!</h1>
-<!--
+
 <figure>
 	<img alt='Borat' src='great-success.png'>
 	<figcaption>HIGH FIVE! </figcaption>
 </figure>
--->
 <p><strong>Great success IDO is coming</strong></p>
 <p><strong>Shall we to the Mars</strong></p>
 

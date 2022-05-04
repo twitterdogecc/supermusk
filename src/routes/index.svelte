@@ -43,4 +43,5 @@
 	<figcaption>HIGH FIVE! </figcaption>
 </figure>
 
-<p><strong>Great success Shall we to the Mars</strong></p>
+<p><strong>Great success</strong></p>
+<p><strong>Shall we to the Mars</strong></p>

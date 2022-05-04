@@ -15,6 +15,7 @@
 		margin: 0 0 1em 0;
 		line-height: 1.5;
 		background-image: url(great-success.png);
+		background-size: 350px;
 		background-repeat:no-repeat;
 	}
 	

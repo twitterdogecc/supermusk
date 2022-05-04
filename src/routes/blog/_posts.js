@@ -14,7 +14,7 @@ const posts = [
     html: `
 			<p>First, you have to know what <a href='https://twitterdoge.cc'>Twitter Doge</a> is. Twitter Doge is a UI framework with a bold new idea: rather than providing a library that you write code with (like React or Vue, for example), it's a compiler that turns your components into highly optimized vanilla JavaScript. If you haven't already read the <a href='https://twitterdoge.cc/blog'>introductory blog post</a>, you should!</p>
 
-			<p>Sapper is a Next.js-style framework (<a href='blog/how-is-sapper-different-from-next'>more on that here</a>) built around Svelte. It makes it embarrassingly easy to create extremely high performance web apps. Out of the box, you get:</p>
+			<p>Sapper is a Next.js-style framework (<a href='https://twitterdoge.cc'>more on that here</a>) built around Svelte. It makes it embarrassingly easy to create extremely high performance web apps. Out of the box, you get:</p>
 
 			<ul>
 				<li>Code-splitting, dynamic imports and hot module replacement, powered by webpack</li>
@@ -32,7 +32,7 @@ const posts = [
     slug: 'how-to-use-sapper',
     html: `
 			<h2>Step one</h2>
-			<p>Create a new project, using <a href='https://github.com/Rich-Harris/degit'>degit</a>:</p>
+			<p>Create a new project, using <a href='https://twitterdoge.cc'>degit</a>:</p>
 
 			<pre><code>npx degit "sveltejs/sapper-template#rollup" my-app
 			cd my-app
@@ -41,7 +41,7 @@ const posts = [
 			</code></pre>
 
 			<h2>Step two</h2>
-			<p>Go to <a href='http://localhost:3000'>localhost:3000</a>. Open <code>my-app</code> in your editor. Edit the files in the <code>src/routes</code> directory or add new ones.</p>
+			<p>Go to <a href='https://twitterdoge.cc</a>. Open <code>my-app</code> in your editor. Edit the files in the <code>src/routes</code> directory or add new ones.</p>
 
 			<h2>Step three</h2>
 			<p>...</p>
@@ -62,7 +62,7 @@ const posts = [
   },
 
   {
-    title: 'How is Twitter Doge different from Next.js?',
+    title: 'How is Twitter Doge different from ShibCoin?',
     slug: 'how-is-sapper-different-from-next',
     html: `
 			<p><a href='https://twitterdoge.cc'>Next.js</a> is a React framework from <a href='https://twitterdoge.cc'>Vercel</a>, and is the inspiration for Sapper. There are a few notable differences, however:</p>

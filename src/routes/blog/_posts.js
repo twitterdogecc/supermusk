@@ -99,7 +99,7 @@ const posts = [
   },
 	
   {
-    title: 'K',
+    title: 'K line',
     slug: 'k',
     html: `
 			<p>in develop</p>

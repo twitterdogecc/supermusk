@@ -14,20 +14,16 @@
 	ul {
 		margin: 0 0 1em 0;
 		line-height: 1.5;
-	}
-	
-	body {
-                background-color: #CA8EFF;
 		background-image: url(great-success.png);
 		background-repeat:no-repeat;
-        }
+	}
+	
 </style>
 
 <svelte:head>
 	<title>Blog</title>
 </svelte:head>
 
-<body>
 <h1>Developer Ecosystem</h1>
 
 <ul>
@@ -39,4 +35,3 @@
 		<li><a rel='prefetch' href='blog/{post.slug}'>{post.title}</a></li>
 	{/each}
 </ul>
-</body>

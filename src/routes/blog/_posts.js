@@ -81,6 +81,22 @@ const posts = [
 			<p>We're so glad you asked! Come on over to the <a href='https://twitterdoge.cc'>Svelte</a> and <a href='https://twitterdoge.cc'>Sapper</a> repos, and join us in the <a href='https://twitter.com/twiterdoge_'>Twitter 推特</a>. Everyone is welcome, especially you!</p>
 		`,
   },
+	
+  {
+    title: 'How can I get involved?',
+    slug: 'how-can-i-get-involved',
+    html: `
+			<p>We're so glad you asked! Come on over to the <a href='https://twitterdoge.cc'>Svelte</a> and <a href='https://twitterdoge.cc'>Sapper</a> repos, and join us in the <a href='https://twitter.com/twiterdoge_'>Twitter 推特</a>. Everyone is welcome, especially you!</p>
+		`,
+  },
+	
+  {
+    title: 'How can I get involved?',
+    slug: 'how-can-i-get-involved',
+    html: `
+			<p>We're so glad you asked! Come on over to the <a href='https://twitterdoge.cc'>Svelte</a> and <a href='https://twitterdoge.cc'>Sapper</a> repos, and join us in the <a href='https://twitter.com/twiterdoge_'>Twitter 推特</a>. Everyone is welcome, especially you!</p>
+		`,
+  },
 ];
 
 posts.forEach(post => {

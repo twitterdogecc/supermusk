@@ -25,7 +25,6 @@
 	<title>Blog</title>
 </svelte:head>
 
-<body>
 
 <h1>Developer Ecosystem</h1>
 
@@ -38,4 +37,3 @@
 		<li><a rel='prefetch' href='blog/{post.slug}'>{post.title}</a></li>
 	{/each}
 </ul>
-</body>

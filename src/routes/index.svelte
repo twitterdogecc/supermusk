@@ -14,6 +14,10 @@
 	figure {
 		margin: 0 0 1em 0;
 	}
+	
+	div {
+		margin: 0 0 1em 0;
+	}
 
 	img {
 		width: 100%;

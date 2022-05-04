@@ -57,7 +57,7 @@
 <p><strong>Shall we to the Mars</strong></p>
 
 <div>
-<video width="640" height="480" controls>
+<video>
   <source src="movie.mp4"  type="video/mp4">
   <source src="movie.ogg"  type="video/ogg">
 </video>

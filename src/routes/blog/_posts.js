@@ -115,7 +115,7 @@ const posts = [
   },
 	
   {
-    title: 'Twitter?',
+    title: 'Twitter',
     slug: 'twitter',
     html: `
 			<p>join us in the <a href='https://twitter.com/twiterdoge_'>Twitter 推特</a>. Everyone is welcome, especially you!</p>
@@ -123,7 +123,7 @@ const posts = [
   },
 	
   {
-    title: 'Telegram?',
+    title: 'Telegram',
     slug: 'telegram',
     html: `
 			<p>join us in the <a href='https://t.me/TwitterDogeChineseGroup'>Telegram 电报</a>. Everyone is welcome, especially you!</p>

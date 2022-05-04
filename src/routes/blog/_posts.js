@@ -55,7 +55,7 @@ const posts = [
     title: 'Why ours GitHub?',
     slug: 'why-the-name',
     html: `
-			<p>Create a new project, using <a href='https://twitterdoge.cc'>degit</a>:</p>
+			<p>Create ours project on GitHub <a href='https://github.com/twitterdogecc/supermusk'>degit</a>:</p>
 		`,
   },
 

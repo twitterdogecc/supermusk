@@ -28,13 +28,6 @@
 	p {
 		margin: 1em auto;
 	}
-	<!--
-	body {
-                background-color: #CA8EFF;
-		background-image: url(great-success.png);
-		background-repeat:repeat;
-        }
-	-->
 
 	@media (min-width: 480px) {
 		h1 {
@@ -46,8 +39,6 @@
 <svelte:head>
 	<title>Twitter Doge</title>
 </svelte:head>
-
-<body>
 
 <h1>Twitter Doge!</h1>
 
@@ -64,4 +55,3 @@
   <source src="movie.ogg"  type="video/ogg">
 </video>
 </div>
-</body>

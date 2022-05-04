@@ -1,5 +1,5 @@
 <style>
-	h1, figure, p {
+	h1, figure, p, video {
 		text-align: center;
 		margin: 0 auto;
 	}

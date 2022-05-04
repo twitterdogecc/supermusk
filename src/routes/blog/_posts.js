@@ -115,18 +115,18 @@ const posts = [
   },
 	
   {
-    title: 'Twitter',
+    title: 'Join Twitter',
     slug: 'twitter',
     html: `
-			<p>join us in the <a href='https://twitter.com/twiterdoge_'>Twitter 推特</a>. Everyone is welcome, especially you!</p>
+			<p>join us in the <a href='https://twitter.com/twiterdoge_'>Twitter</a>. Everyone is welcome, especially you!</p>
 		`,
   },
 	
   {
-    title: 'Telegram',
+    title: 'Join Telegram',
     slug: 'telegram',
     html: `
-			<p>join us in the <a href='https://t.me/TwitterDogeChineseGroup'>Telegram 电报</a>. Everyone is welcome, especially you!</p>
+			<p>join us in the <a href='https://t.me/TwitterDogeChineseGroup'>Telegram</a>. Everyone is welcome, especially you!</p>
 		`,
   },
 ];

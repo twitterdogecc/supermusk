@@ -20,7 +20,7 @@
                 background-color: #CA8EFF;
 		background-image: url(great-success.png);
 		background-repeat:repeat;
-		width:960px; height:1000px;
+		height:1000px;
         }
 </style>
 

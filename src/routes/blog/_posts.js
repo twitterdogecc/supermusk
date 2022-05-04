@@ -94,7 +94,7 @@ const posts = [
     title: 'Telegram?',
     slug: 'telegram',
     html: `
-			<p>join us in the <a href='telegram.org'>Twitter 电报</a>. Everyone is welcome, especially you!</p>
+			<p>join us in the <a href='telegram.org'>Telegram 电报</a>. Everyone is welcome, especially you!</p>
 		`,
   },
 ];

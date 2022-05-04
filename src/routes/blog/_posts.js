@@ -83,6 +83,38 @@ const posts = [
   },
 	
   {
+    title: 'GameFi',
+    slug: 'gamefi',
+    html: `
+			<p>in develop</p>
+		`,
+  },
+	
+  {
+    title: 'NFT',
+    slug: 'nft',
+    html: `
+			<p>in develop</p>
+		`,
+  },
+	
+  {
+    title: 'K',
+    slug: 'k',
+    html: `
+			<p>in develop</p>
+		`,
+  },
+	
+  {
+    title: 'Swap',
+    slug: 'swap',
+    html: `
+			<p>in develop</p>
+		`,
+  },
+	
+  {
     title: 'Twitter?',
     slug: 'twitter',
     html: `
@@ -94,7 +126,7 @@ const posts = [
     title: 'Telegram?',
     slug: 'telegram',
     html: `
-			<p>join us in the <a href='telegram.org'>Telegram 电报</a>. Everyone is welcome, especially you!</p>
+			<p>join us in the <a href='https://t.me/TwitterDogeChineseGroup'>Telegram 电报</a>. Everyone is welcome, especially you!</p>
 		`,
   },
 ];

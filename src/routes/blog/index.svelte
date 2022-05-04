@@ -19,7 +19,7 @@
 	body {
                 background-color: #CA8EFF;
 		background-image: url(great-success.png);
-		background-repeat:no--repeat;
+		background-repeat:no-repeat;
         }
 </style>
 

@@ -21,7 +21,7 @@
 	<title>Blog</title>
 </svelte:head>
 
-<h1>Developer Ecosystem 开发者生态</h1>
+<h1>Developer Ecosystem</h1>
 
 <ul>
 	{#each posts as post}

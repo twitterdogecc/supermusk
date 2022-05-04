@@ -36,11 +36,11 @@
 	<title>Twitter Doge</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>HIGH FIVE! Twitter Doge!</h1>
 
 <figure>
 	<img alt='Borat' src='great-success.png'>
-	<figcaption>HIGH FIVE! Twitter Doge</figcaption>
+	<figcaption>Great success</figcaption>
 </figure>
 
-<p><strong>Shall we to the Mars.</strong></p>
+<p><strong>Shall we to the Mars</strong></p>

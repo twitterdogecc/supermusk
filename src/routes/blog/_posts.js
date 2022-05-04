@@ -55,7 +55,7 @@ const posts = [
     title: 'Where are ours GitHub?',
     slug: 'where-the-twitterdoge',
     html: `
-			<p>Create ours project on GitHub <a href='https://github.com/twitterdogecc/supermusk'>Twitter Doge</a>:</p>
+			<p>Create ours project on GitHub <a href='https://github.com/twitterdogecc/supermusk'>Twitter Doge</a></p>
 		`,
   },
 

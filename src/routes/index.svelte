@@ -30,7 +30,7 @@
 	}
 	
 	body {
-                background-color: #93B874;
+                background-color: #CA8EFF;
         }
 
 	@media (min-width: 480px) {

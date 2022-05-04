@@ -62,10 +62,10 @@ const posts = [
   },
 
   {
-    title: 'How is Twitter Doge different from ShibCoin?',
+    title: 'How is Twitter Doge different from Shib Token?',
     slug: 'how-is-sapper-different-from-next',
     html: `
-			<p><a href='https://twitterdoge.cc'>Next.js</a> is a React framework from <a href='https://twitterdoge.cc'>Vercel</a>, and is the inspiration for Sapper. There are a few notable differences, however:</p>
+			<p><a href='https://twitterdoge.cc'>Shib Token</a> is a React framework from <a href='https://twitterdoge.cc'>Vercel</a>, and is the inspiration for Sapper. There are a few notable differences, however:</p>
 
 			<ul>
 				<li>It's powered by <a href='https://twitterdoge.cc'>Svelte</a> instead of React, so it's faster and your apps are smaller</li>

@@ -86,7 +86,7 @@ const posts = [
     title: 'GameFi',
     slug: 'gamefi',
     html: `
-			<p>in develop</p>
+			<p>in developing</p>
 		`,
   },
 	
@@ -94,7 +94,7 @@ const posts = [
     title: 'NFT',
     slug: 'nft',
     html: `
-			<p>in develop</p>
+			<p>in developing</p>
 		`,
   },
 	
@@ -102,7 +102,7 @@ const posts = [
     title: 'K line',
     slug: 'k',
     html: `
-			<p>in develop</p>
+			<p>in developing</p>
 		`,
   },
 	
@@ -110,7 +110,7 @@ const posts = [
     title: 'Swap',
     slug: 'swap',
     html: `
-			<p>in develop</p>
+			<p>in developing</p>
 		`,
   },
 	

@@ -43,5 +43,5 @@
 	<figcaption>HIGH FIVE! </figcaption>
 </figure>
 
-<p><strong>Great success</strong></p>
+<p><strong>Great success IDO is coming</strong></p>
 <p><strong>Shall we to the Mars</strong></p>

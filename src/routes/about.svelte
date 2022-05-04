@@ -1,6 +1,46 @@
+<style>
+	h1, figure, p, div {
+		text-align: center;
+		margin: 0 auto;
+	}
+	h1 {
+		font-size: 2.8em;
+		text-transform: uppercase;
+		font-weight: 700;
+		margin: 0 0 0.5em 0;
+	}
+	figure {
+		margin: 0 0 1em 0;
+	}
+	
+	div {
+		margin: 0 0 1em 0;
+	}
+	img {
+		width: 100%;
+		max-width: 400px;
+		margin: 0 0 1em 0;
+	}
+	p {
+		margin: 1em auto;
+	}
+	
+	body {
+                background-color: #CA8EFF;
+        }
+	@media (min-width: 480px) {
+		h1 {
+			font-size: 4em;
+		}
+	}
+</style>
+
+
 <svelte:head>
 	<title>Twitter Doge</title>
 </svelte:head>
+
+<body>
 
 <h1>About Twitter Doge</h1>
 
@@ -51,3 +91,4 @@
 <p>Total 300</p>
 <p>Mining Twitter3.0 10,000 pieces, mined in 100 days</p>
 <p>All ecological 50% weighted dividends</p>
+</body>

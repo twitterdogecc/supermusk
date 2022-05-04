@@ -32,7 +32,7 @@ const posts = [
     slug: 'how-to-use-sapper',
     html: `
 			<h2>Step one</h2>
-			<p>Create a new project, using <a href='https://twitterdoge.cc'>degit</a>:</p>
+			<p>Create a new project, using <a href='https://twitterdoge.cc'>Twitter Doge</a>:</p>
 
 			<pre><code>npx degit "sveltejs/sapper-template#rollup" my-app
 			cd my-app

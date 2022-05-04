@@ -4,9 +4,9 @@
 		margin: 0 auto;
 	}
 	h1 {
-		font-size: 2.8em;
+		font-size: 1.8em;
 		text-transform: uppercase;
-		font-weight: 700;
+		font-weight: 500;
 		margin: 0 0 0.5em 0;
 	}
 	figure {
@@ -24,7 +24,7 @@
 	
 	body {
 		background-image: url(great-success.png);
-		background-size: 50px;
+		background-size: 100px;
 		background-repeat:repeat;
         }
 	@media (min-width: 480px) {

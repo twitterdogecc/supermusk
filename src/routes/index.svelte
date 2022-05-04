@@ -28,7 +28,7 @@
 	p {
 		margin: 1em auto;
 	}
-	<--!
+	<!--
 	body {
                 background-color: #CA8EFF;
 		background-image: url(great-success.png);

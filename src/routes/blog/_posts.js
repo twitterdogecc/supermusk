@@ -10,7 +10,7 @@
 const posts = [
   {
     title: 'What is Twitter Doge?',
-    slug: 'what-is-sapper',
+    slug: 'what-is-twitterdoge',
     html: `
 			<p>First, you have to know what <a href='https://twitterdoge.cc'>Twitter Doge</a> is. Twitter Doge is a UI framework with a bold new idea: rather than providing a library that you write code with (like React or Vue, for example), it's a compiler that turns your components into highly optimized vanilla JavaScript. If you haven't already read the <a href='https://twitterdoge.cc/blog'>introductory blog post</a>, you should!</p>
 
@@ -28,8 +28,8 @@ const posts = [
   },
 
   {
-    title: 'How to use Twitter Doge',
-    slug: 'how-to-use-sapper',
+    title: 'How to use Twitter Doge?',
+    slug: 'how-to-use-twitterdoge',
     html: `
 			<h2>Step one</h2>
 			<p>Create a new project, using <a href='https://twitterdoge.cc'>Twitter Doge</a>:</p>
@@ -53,7 +53,7 @@ const posts = [
 
   {
     title: 'Where are ours GitHub?',
-    slug: 'why-the-name',
+    slug: 'where-the-twitterdoge',
     html: `
 			<p>Create ours project on GitHub <a href='https://github.com/twitterdogecc/supermusk'>Twitter Doge</a>:</p>
 		`,
@@ -61,7 +61,7 @@ const posts = [
 
   {
     title: 'How is Twitter Doge different from Shib Token?',
-    slug: 'how-is-sapper-different-from-next',
+    slug: 'how-is-twitterdoge-different-from-shib',
     html: `
 			<p><a href='https://twitterdoge.cc'>Shib Token</a> is a React framework from <a href='https://twitterdoge.cc'>Vercel</a>, and is the inspiration for Sapper. There are a few notable differences, however:</p>
 

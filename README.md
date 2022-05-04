@@ -1,18 +1,18 @@
 # Twitter Doge
 
-This directory is a brief example of a [Sapper](https://sapper.svelte.dev/) app that can be deployed to Vercel with zero configuration.
+Shall we to the Mars?
 
 ## Deploy Your Own
 
 Deploy your own Sapper project with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/sapper&template=sapper)
+[![Deploy with Vercel](https://github.com/twitterdogecc/supermusk)](https://https://github.com/twitterdogecc?repository-url=https://github.com/twitterdogecc/supermusk)
 
 _Live Example: https://twitterdoge.cc/
 
 ### How We Created This Example
 
-To get started with Sapper deployed with Vercel, you can use [degit](https://github.com/Rich-Harris/degit) to initialize the project:
+To get started with Sapper deployed with Vercel, you can use [Twitter Doge](https://github.com/twitterdogecc/supermusk) to initialize the project:
 
 ```shell
 $ npx degit "sveltejs/sapper-template#webpack" my-sapper-app

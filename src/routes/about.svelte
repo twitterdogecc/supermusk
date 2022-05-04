@@ -37,7 +37,6 @@
 	<title>Twitter Doge</title>
 </svelte:head>
 
-<body>
 
 <h1>About Twitter Doge</h1>
 
@@ -88,4 +87,3 @@
 <p>Total 300</p>
 <p>Mining Twitter3.0 10,000 pieces, mined in 100 days</p>
 <p>All ecological 50% weighted dividends</p>
-</body>

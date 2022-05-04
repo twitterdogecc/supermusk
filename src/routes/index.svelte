@@ -1,5 +1,5 @@
 <style>
-	h1, figure, p, video {
+	h1, figure, p, div {
 		text-align: center;
 		margin: 0 auto;
 	}
@@ -46,7 +46,9 @@
 <p><strong>Great success IDO is coming</strong></p>
 <p><strong>Shall we to the Mars</strong></p>
 
+<div>
 <video width="320" height="240" controls>
   <source src="movie.mp4"  type="video/mp4">
   <source src="movie.ogg"  type="video/ogg">
 </video>
+</div>

@@ -15,11 +15,17 @@
 		margin: 0 0 1em 0;
 		line-height: 1.5;
 	}
+	
+	body {
+		background-color: #F1E1FF;	
+	}
 </style>
 
 <svelte:head>
 	<title>Blog</title>
 </svelte:head>
+
+<body>
 
 <h1>Developer Ecosystem</h1>
 
@@ -32,3 +38,4 @@
 		<li><a rel='prefetch' href='blog/{post.slug}'>{post.title}</a></li>
 	{/each}
 </ul>
+</body>

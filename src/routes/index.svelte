@@ -31,6 +31,8 @@
 	
 	body {
                 background-color: #CA8EFF;
+		background-image: url(great-success.png);
+		background-repeat:no-repeat;
         }
 
 	@media (min-width: 480px) {

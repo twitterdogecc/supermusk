@@ -8,8 +8,7 @@
 <p>In honor of Musk, the $44 billion wholly-owned acquisition of Twitter, Musk launched TwitterDoge</p>
 
 <p><strong>2.Vision</strong></p>
-<p>Let the faith of decentralization be great again, lead the way, be a white-robed man, innovate value, create a DAO node economic community, and let everyone who loves the blockchain in the world be a business
-</p>
+<p>Let the faith of decentralization be great again, lead the way, be a white-robed man, innovate value, create a DAO node economic community, and let everyone who loves the blockchain in the world be a business</p>
 
 <p><strong>3.Ecological Matrix</strong></p>
 <p>Wallet, K-Line, Decentralized Exchange, Cross-chain Storage Expansion, Unbounded Payment, NFT, Metaverse</p>
@@ -36,7 +35,7 @@
 <p>2％ Lp reflow</p>
 
 <p><strong>10.Twitter3.0</strong></p>
-<p>Node NFT exclusive platform A total of 100,000 pieces <100,000 pieces></p>
+<p>Node NFT exclusive platform A total of 100,000 pieces</p>
 <p>40％ Mapping</p>
 <p>40％ Lp liquidity</p>
 <p>10％ Fund</p>

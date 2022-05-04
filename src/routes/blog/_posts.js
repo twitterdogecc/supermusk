@@ -12,7 +12,7 @@ const posts = [
     title: 'What is Twitter Doge?',
     slug: 'what-is-sapper',
     html: `
-			<p>First, you have to know what <a href='https://twitterdoge.cc'>Twitter Doge</a> is. Twitter Doge is a UI framework with a bold new idea: rather than providing a library that you write code with (like React or Vue, for example), it's a compiler that turns your components into highly optimized vanilla JavaScript. If you haven't already read the <a href='https://twitterdoge.cc'>introductory blog post</a>, you should!</p>
+			<p>First, you have to know what <a href='https://twitterdoge.cc'>Twitter Doge</a> is. Twitter Doge is a UI framework with a bold new idea: rather than providing a library that you write code with (like React or Vue, for example), it's a compiler that turns your components into highly optimized vanilla JavaScript. If you haven't already read the <a href='https://twitterdoge.cc/blog'>introductory blog post</a>, you should!</p>
 
 			<p>Sapper is a Next.js-style framework (<a href='blog/how-is-sapper-different-from-next'>more on that here</a>) built around Svelte. It makes it embarrassingly easy to create extremely high performance web apps. Out of the box, you get:</p>
 

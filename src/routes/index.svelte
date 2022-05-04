@@ -52,7 +52,7 @@
 	<img alt='Borat' src='great-success.png'>
 	<figcaption>HIGH FIVE! </figcaption>
 </figure>
-
+</body>
 <p><strong>Great success IDO is coming</strong></p>
 <p><strong>Shall we to the Mars</strong></p>
 
@@ -62,4 +62,4 @@
   <source src="movie.ogg"  type="video/ogg">
 </video>
 </div>
-</body>
+

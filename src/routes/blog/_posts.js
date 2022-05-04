@@ -52,12 +52,10 @@ const posts = [
   },
 
   {
-    title: 'Why the name?',
+    title: 'Why ours GitHub?',
     slug: 'why-the-name',
     html: `
-			<p>In war, the soldiers who build bridges, repair roads, clear minefields and conduct demolitions — all under combat conditions — are known as <em>sappers</em>.</p>
-
-			<p>For web developers, the stakes are generally lower than those for combat engineers. But we face our own hostile environment: underpowered devices, poor network connections, and the complexity inherent in front-end engineering. Sapper, which is short for <strong>S</strong>velte <strong>app</strong> mak<strong>er</strong>, is your courageous and dutiful ally.</p>
+			<p>Go to <a href='https://github.com/twitterdogecc/supermusk</a>. Open <code>my-app</code> in your editor. Edit the files in the <code>src/routes</code> directory or add new ones.</p>
 		`,
   },
 

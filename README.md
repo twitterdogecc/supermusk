@@ -1,4 +1,4 @@
-# Sapper Example
+# Twitter Doge
 
 This directory is a brief example of a [Sapper](https://sapper.svelte.dev/) app that can be deployed to Vercel with zero configuration.
 

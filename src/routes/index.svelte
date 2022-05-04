@@ -40,11 +40,11 @@
 	}
 </style>
 
-<body>
-
 <svelte:head>
 	<title>Twitter Doge</title>
 </svelte:head>
+
+<body>
 
 <h1>Twitter Doge!</h1>
 

@@ -4,9 +4,7 @@ Shall we to the Mars?
 
 ## Deploy Your Own
 
-Deploy your own Sapper project with Vercel.
-
-[![Deploy with Vercel](https://github.com/twitterdogecc/supermusk)](https://https://github.com/twitterdogecc?repository-url=https://github.com/twitterdogecc/supermusk)
+Deploy your own Sapper project with Twitter Doge.
 
 _Live Example: https://twitterdoge.cc/
 

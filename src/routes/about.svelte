@@ -24,7 +24,7 @@
 	
 	body {
 		background-image: url(great-success.png);
-		background-size: 250px;
+		background-size: 350px;
 		background-repeat:repeat;
         }
 	@media (min-width: 480px) {

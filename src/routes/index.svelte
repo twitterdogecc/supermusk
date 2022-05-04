@@ -45,3 +45,8 @@
 
 <p><strong>Great success IDO is coming</strong></p>
 <p><strong>Shall we to the Mars</strong></p>
+
+<video>
+  <source src="movie.mp4"  type="video/mp4">
+  <source src="movie.ogg"  type="video/ogg">
+</video>

@@ -55,7 +55,7 @@ const posts = [
     title: 'Why ours GitHub?',
     slug: 'why-the-name',
     html: `
-			<p>Go to <a href='https://github.com/twitterdogecc/supermusk</a>. Open <code>my-app</code> in your editor. Edit the files in the <code>src/routes</code> directory or add new ones.</p>
+			<p>Create a new project, using <a href='https://twitterdoge.cc'>degit</a>:</p>
 		`,
   },
 

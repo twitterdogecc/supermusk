@@ -4,9 +4,9 @@
 		margin: 0 auto;
 	}
 	h1 {
-		font-size: 1.8em;
+		font-size: 2.8em;
 		text-transform: uppercase;
-		font-weight: 500;
+		font-weight: 600;
 		margin: 0 0 0.5em 0;
 	}
 	figure {
@@ -28,7 +28,7 @@
 	
 	@media (min-width: 480px) {
 		h1 {
-			font-size: 4em;
+			font-size: 2em;
 		}
 	}
 </style>

@@ -15,7 +15,7 @@
 	}
 	img {
 		width: 100%;
-		max-width: 200px;
+		max-width: 400px;
 		margin: 0 0 1em 0;
 	}
 	p {

@@ -60,4 +60,8 @@
 		<li><a class='{segment === "market" ? "selected" : ""}' href= "https://www.binance.com/en/nft/home">market</a></li>
 		<li class="item-right"><a class='{segment === "wallet" ? "selected" : ""}' href= "https://metamask.io/">wallet</a></li>
 	</ul>
+	
+	<ul class="item-right">
+		<li><a class='{segment === "wallet" ? "selected" : ""}' href= "https://metamask.io/">wallet</a></li>
+	</ul>
 </nav>

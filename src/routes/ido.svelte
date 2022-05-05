@@ -7,7 +7,7 @@
 	h1 {
 		font-size: 1.8em;
 		text-transform: uppercase;
-		font-weight: 500;
+		font-weight: 200;
 		margin: 0 0 0.5em 0;
 	}
 	figure {
@@ -15,7 +15,7 @@
 	}
 	img {
 		width: 100%;
-		max-width: 400px;
+		max-width: 200px;
 		margin: 0 0 1em 0;
 	}
 	p {
@@ -40,16 +40,9 @@
 
 <h1>IDO is coming soon...</h1>
 
-<div>
-<video  width="320" height="240" controls>
-  <source src="movie2.mp4"  type="video/mp4">
-  <source src="movie2.ogg"  type="video/ogg">
-</video>
-</div>
-
 <figure>
 	<img alt='pink' src='pink.png'>
-	<figcaption>HI PINKSALE! </figcaption>
+	<figcaption>Hi PinkSale! </figcaption>
 </figure>
 
 <p>www.pinksale.finance</p>

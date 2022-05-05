@@ -46,5 +46,10 @@
 </video>
 </div>
 
+<figure>
+	<img alt='pink' src='pink.png'>
+	<figcaption>HIGH PINKSALE! </figcaption>
+</figure>
+
 <p><strong>IDO</strong></p>
 <p>0x...?</p>

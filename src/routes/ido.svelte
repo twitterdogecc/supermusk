@@ -1,3 +1,4 @@
+
 <style>
 	h1, figure, p {
 		text-align: center;
@@ -37,7 +38,7 @@
 	<title>twitterdoge</title>
 </svelte:head>
 
-<h1>IDO is coming</h1>
+<h1>IDO is coming soon...</h1>
 
 <div>
 <video  width="320" height="240" controls>
@@ -48,8 +49,8 @@
 
 <figure>
 	<img alt='pink' src='pink.png'>
-	<figcaption>HIGH PINKSALE! </figcaption>
+	<figcaption>HI PINKSALE! </figcaption>
 </figure>
 
-<p><strong>IDO</strong></p>
-<p>0x...?</p>
+<p>www.pinksale.finance</p>
+<p><strong>0x...?</strong></p>

@@ -63,6 +63,6 @@
 		
 		<li><a class='{segment === "ido" ? "selected" : ""}' href='ido'>ido</a></li>
 		<li><a class='{segment === "nft" ? "selected" : ""}' href='nft'>nft</a></li>
-		<li><a class='{segment === "wallet" ? "selected" : ""} "item-right"' href=''>wallet</a></li>
+		<li><a class='{segment === "wallet" ? "selected" : ""} "item-right"' href='wallet'>wallet</a></li>
 	</ul>
 </nav>

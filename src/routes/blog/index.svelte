@@ -23,7 +23,8 @@
 		line-height: 1.5;
 		background-image: url(great-success.png);
 		background-size: 180px;
-		background-repeat:no-repeat;
+		background-position: right bottom;
+		background-repeat:no-repeat;		
 	}
 	
 	div {

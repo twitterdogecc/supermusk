@@ -22,11 +22,6 @@
 		margin: 1em auto;
 	}
 	
-	body {
-		background-image: url(great-success.png);
-		background-size: 180px;
-		background-repeat:repeat;
-        }
 	@media (min-width: 480px) {
 		h1 {
 			font-size: 4em;
@@ -38,7 +33,6 @@
 <svelte:head>
 	<title>Twitter Doge</title>
 </svelte:head>
-<body>
 
 <h1>About Twitter Doge</h1>
 
@@ -89,4 +83,3 @@
 <p>Total 300</p>
 <p>Mining Twitter3.0 10,000 pieces, mined in 100 days</p>
 <p>All ecological 50% weighted dividends</p>
-</body>

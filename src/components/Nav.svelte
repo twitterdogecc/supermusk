@@ -57,7 +57,7 @@
 		
 		<li><a class='{segment === "ido" ? "selected" : ""}' href='ido'>ido</a></li>
 		<li><a class='{segment === "nft" ? "selected" : ""}' href='nft'>nft</a></li>
-		<li><a class='{segment === "market" ? "selected" : ""} "item-right"' href= "https://www.binance.com/en/nft/home">market</a></li>
-		<li><a class='{segment === "wallet" ? "selected" : ""} "item-right"' href= "https://metamask.io/">wallet</a></li>
+		<li><a class='{segment === "market" ? "selected" : ""}' href= "https://www.binance.com/en/nft/home">market</a></li>
+		<li><a class='{segment === "wallet" ? "selected" : ""}' href= "https://metamask.io/">wallet</a> align="right"</li>
 	</ul>
 </nav>

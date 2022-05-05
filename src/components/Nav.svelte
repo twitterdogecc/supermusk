@@ -37,7 +37,7 @@
 	}
 	
 	.item-right {
-   		 margin-left: auto;
+   		 margin-left: 5cm;
  	 }
 	a {
 		text-decoration: none;

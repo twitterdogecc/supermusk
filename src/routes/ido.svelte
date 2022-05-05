@@ -49,6 +49,7 @@
 <p><strong>0x...?</strong></p>
 
 <div>
+<!--
 <SCRIPT language=JavaScript>
 tmpDate = new Date();
 date = tmpDate.getDate();
@@ -78,4 +79,5 @@ else
 document.write(myArray[weekday])
 }
 </SCRIPT>
+-->
 </div>

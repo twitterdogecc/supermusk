@@ -5,9 +5,9 @@
 		margin: 0 auto;
 	}
 	h1 {
-		font-size: 1.8em;
+		font-size: 1em;
 		text-transform: uppercase;
-		font-weight: 200;
+		font-weight: 150;
 		margin: 0 0 0.5em 0;
 	}
 	figure {

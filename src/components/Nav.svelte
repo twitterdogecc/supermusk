@@ -8,29 +8,24 @@
 		font-weight: 300;
 		padding: 0 1em;
 	}
-
 	ul {
 		margin: 0;
 		padding: 0;
 	}
-
 	/* clearfix */
 	ul::after {
 		content: '';
 		display: block;
 		clear: both;
 	}
-
 	li {
 		display: block;
 		float: left;
 	}
-
 	.selected {
 		position: relative;
 		display: inline-block;
 	}
-
 	.selected::after {
 		position: absolute;
 		content: '';
@@ -44,7 +39,6 @@
 	.item-right {
    		 margin-left: auto;
  	 }
-
 	a {
 		text-decoration: none;
 		padding: 1em 0.5em;
@@ -63,7 +57,6 @@
 		
 		<li><a class='{segment === "ido" ? "selected" : ""}' href='ido'>ido</a></li>
 		<li><a class='{segment === "nft" ? "selected" : ""}' href='nft'>nft</a></li>
-		<li><a class="selected" href= "https://www.binance.com/en/nft/home">marketplace</a></li>
-		<li><a class="selected" "item-right" href= "https://metamask.io">wallet</a></li>
+		<li><a class='{segment === "market" ? "selected" : ""} "item-right"' href= "https://www.binance.com/en/nft/home">market</a></li>
 	</ul>
 </nav>

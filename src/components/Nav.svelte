@@ -63,6 +63,6 @@
 		
 		<li><a class='{segment === "ido" ? "selected" : ""}' href='ido'>ido</a></li>
 		<li><a class='{segment === "nft" ? "selected" : ""}' href='nft'>nft</a></li>
-		<li><a class="selected" "item-right" href= "https://www.binance.com/en/nft/home">wallet</a></li>
+		<li><a class="selected" "item-right" href= "https://www.binance.com/en/nft/home">marketplace</a></li>
 	</ul>
 </nav>

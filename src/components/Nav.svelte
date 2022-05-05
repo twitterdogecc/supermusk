@@ -40,6 +40,10 @@
 		display: block;
 		bottom: -1px;
 	}
+	
+	.selected-right {
+   		 margin-left: auto;
+ 	 }
 
 	a {
 		text-decoration: none;
@@ -59,6 +63,6 @@
 		
 		<li><a class='{segment === "ido" ? "selected" : ""}' href='ido'>ido</a></li>
 		<li><a class='{segment === "nft" ? "selected" : ""}' href='nft'>nft</a></li>
-		<li><a class='{segment === "wallet" ? "selected" : ""}' >wallet</a></li>
+		<li><a class='{segment === "wallet" ? "selected-right" : ""}' >wallet</a></li>
 	</ul>
 </nav>

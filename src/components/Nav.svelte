@@ -58,5 +58,6 @@
 		<li><a rel=prefetch class='{segment === "blog" ? "selected" : ""}' href='blog'>blog</a></li>
 		
 		<li><a class='{segment === "ido" ? "selected" : ""}' href='ido'>ido</a></li>
+		<li><a class='{segment === "nft" ? "selected" : ""}' href='nft'>nft</a></li>
 	</ul>
 </nav>

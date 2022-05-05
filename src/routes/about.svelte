@@ -21,6 +21,10 @@
 	p {
 		margin: 1em auto;
 	}
+	div {
+		text-align: center;
+		margin: 0 auto;
+	}
 	
 	@media (min-width: 480px) {
 		h1 {
@@ -35,6 +39,13 @@
 </svelte:head>
 
 <h1>About Twitter Doge</h1>
+
+<div>
+<video  width="320" height="240" controls>
+  <source src="movie1.mp4"  type="video/mp4">
+  <source src="movie1.ogg"  type="video/ogg">
+</video>
+</div>
 
 <p><strong>1.Originally</strong></p>
 <p>In honor of Musk, the $44 billion wholly-owned acquisition of Twitter, Musk launched TwitterDoge</p>

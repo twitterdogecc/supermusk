@@ -45,5 +45,5 @@
 	<figcaption>TwitterDoge × PinkSale</figcaption>
 </figure>
 
-<p>www.pinksale.finance</p>
+<p><a href= "https://www.pinksale.finance/">www.pinksale.finance</a></p>
 <p><strong>0x...?</strong></p>

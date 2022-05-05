@@ -42,7 +42,7 @@
 
 <figure>
 	<img alt='pink' src='pink.png'>
-	<figcaption>Hi PinkSale! </figcaption>
+	<figcaption>TwitterDoge × PinkSale</figcaption>
 </figure>
 
 <p>www.pinksale.finance</p>

@@ -52,8 +52,7 @@
 <div id="main">
 <div id="show_time">
 <script>
-//setInterval("show_time.innerHTML= new Date().toLocaleString()",1000);
-setInterval("show_time.innerHTML=new Date().toLocaleString()+' 日一二三四五六'.charAt(new Date().getDay());",1000);
+setInterval("show_time.innerHTML= new Date().toLocaleString()",1000);
 </script>
 </div>
 </div>

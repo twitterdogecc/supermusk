@@ -39,7 +39,7 @@
 </style>
 
 <svelte:head>
-	<title>Blog</title>
+	<title>Twitter Doge</title>
 </svelte:head>
 
 <h1>Developer Ecosystem</h1>

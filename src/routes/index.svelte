@@ -37,7 +37,7 @@
 </style>
 
 <svelte:head>
-	<title><link rel="shortcut icon"type="image/x-icon"href="static/favicon.ico" />Twitter Doge</title>
+	<link rel="shortcut icon"type="image/x-icon"href="static/favicon.ico" /><title>Twitter Doge</title>
 </svelte:head>
 
 <h1>Twitter Doge!</h1>

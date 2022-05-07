@@ -108,8 +108,8 @@ setInterval("show_time.innerHTML= new Date().toLocaleString()",1000);
  }
  function render() {
  requestAnimationFrame(render);
- object.rotation.x += 0.05;
- object.rotation.y += 0.05;
+ object.rotation.x += 0.01;
+ object.rotation.y += 0.01;
  renderer.render(scene, camera);
  }
  function threeStart() {
